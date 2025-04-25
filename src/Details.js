@@ -57,7 +57,7 @@ export const workDetails = [
     Company: `Crebaco Global Pvt Ltd`,
     Location: "Ahemdabad,Gujrat",
     Type: "Full Time",
-    Duration: "Jan 2025 - Present",
+    Duration: "Jan 2025 - Mar 2025",
   },
   {
     Position: "Trainee MERN stack Developer",
