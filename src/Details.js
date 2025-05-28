@@ -22,6 +22,7 @@ import figma from "./assets/techstack/figma.png";
 // Porject Images
 import projectImage1 from "./assets/projects/Yummy.png";
 import projectImage2 from "./assets/projects/E-commerce.png";
+import projectImage3 from "./assets/projects/Printo.png";
 
 
 // Logos
@@ -126,18 +127,27 @@ export const projectDetails = [
     inspired by popular chai cafés like Chai Sutta Bar. 
     The platform allows users to explore different chai flavors, place online orders, 
     and engage with a community of tea enthusiasts.`,
-    techstack: "HTML/CSS, JavaScript,PHP",
+    techstack: "React Js,PHP",
     previewLink: "https://yummy-phi-umber.vercel.app",
     githubLink: "https://github.com/anchal1233/Yummy",
   },
   {
     title: "E-Commerce Website",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `A modern E-commerce web application built with React, offering users a seamless shopping experience. 
+    Features include product browsing, search, cart functionality, and responsive design for all devices.`,
     techstack: "React js, Node js, Express Js, MOngoDB",
     previewLink: "https://e-commerce-six-theta-17.vercel.app/",
     githubLink: "https://github.com/anchal1233/E-Commerce",
+  },
+  {
+    title: "Printo",
+    image: projectImage3,
+    description: `Printo offers online printing services like customised Visiting Card Printing,Business 
+    Cards printing and much more. We deliver anywhere in India `,
+    techstack: "Html, CSS, JavaScript",
+    previewLink: "printo-rho.vercel.app",
+    githubLink: "https://github.com/anchal1233/Printo",
   },
  
 ];
